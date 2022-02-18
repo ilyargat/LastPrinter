@@ -1,0 +1,4 @@
+shodan==1.25.0
+colorama==0.4.4
+loguru==0.5.3
+SocksiPy_branch==1.01
